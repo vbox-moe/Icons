@@ -1,0 +1,57 @@
+Adobe After Effects v17.0.6 Windows 64 render log for project “Main.aep”
+
+Rendering started on 2020/07/12 at 0:53:48
+
+  2020/07/12 0:53:48: Starting composition “VBox.Icons.HeavyWork.Transparent.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Transparent.Wide\VBox.Icons.HeavyWork.Transparent.Wide_[#####].png    2020/07/12 0:53:48: Finished composition “VBox.Icons.HeavyWork.Transparent.Wide”.
+
+
+  2020/07/12 0:53:48: Starting composition “VBox.Icons.HeavyWork”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork\VBox.Icons.HeavyWork_[#####].png    2020/07/12 0:53:48: Finished composition “VBox.Icons.HeavyWork”.
+
+
+  2020/07/12 0:53:48: Starting composition “VBox.Icons.HeavyWork.Colored”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Colored\VBox.Icons.HeavyWork.Colored_[#####].png    2020/07/12 0:53:48: Finished composition “VBox.Icons.HeavyWork.Colored”.
+
+
+  2020/07/12 0:53:48: Starting composition “VBox.Icons.HeavyWork.Colored.Transparent”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Colored.Transparent\VBox.Icons.HeavyWork.Colored.Transparent_[#####].png    2020/07/12 0:53:49: Finished composition “VBox.Icons.HeavyWork.Colored.Transparent”.
+
+
+  2020/07/12 0:53:49: Starting composition “VBox.Icons.HeavyWork.Colored.Transparent.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Colored.Transparent.Wide\VBox.Icons.HeavyWork.Colored.Transparent.Wide_[#####].png    2020/07/12 0:53:49: Finished composition “VBox.Icons.HeavyWork.Colored.Transparent.Wide”.
+
+
+  2020/07/12 0:53:49: Starting composition “VBox.Icons.HeavyWork.Colored.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Colored.Wide\VBox.Icons.HeavyWork.Colored.Wide_[#####].png    2020/07/12 0:53:49: Finished composition “VBox.Icons.HeavyWork.Colored.Wide”.
+
+
+  2020/07/12 0:53:49: Starting composition “VBox.Icons.HeavyWork.Half.Transparent”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Half.Transparent\VBox.Icons.HeavyWork.Half.Transparent_[#####].png    2020/07/12 0:53:49: Finished composition “VBox.Icons.HeavyWork.Half.Transparent”.
+
+
+  2020/07/12 0:53:49: Starting composition “VBox.Icons.HeavyWork.Half.Transparent.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Half.Transparent.Wide\VBox.Icons.HeavyWork.Half.Transparent.Wide_[#####].png    2020/07/12 0:53:50: Finished composition “VBox.Icons.HeavyWork.Half.Transparent.Wide”.
+
+
+  2020/07/12 0:53:50: Starting composition “VBox.Icons.HeavyWork.Transparent”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Transparent\VBox.Icons.HeavyWork.Transparent_[#####].png    2020/07/12 0:53:50: Finished composition “VBox.Icons.HeavyWork.Transparent”.
+
+
+  2020/07/12 0:53:50: Starting composition “VBox.Icons.HeavyWork.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.HeavyWork.Wide\VBox.Icons.HeavyWork.Wide_[#####].png    2020/07/12 0:53:50: Finished composition “VBox.Icons.HeavyWork.Wide”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 2020/07/12 at 0:53:50
+
