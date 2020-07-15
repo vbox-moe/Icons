@@ -1,0 +1,62 @@
+Adobe After Effects v17.0.6 Windows 64 render log for project “Main.aep”
+
+Rendering started on 2020/07/16 at 1:26:43
+
+  2020/07/16 1:26:43: Starting composition “VBox.Icons.Ruminoid.Splash”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Splash\VBox.Icons.Ruminoid.Splash_[#####].png    2020/07/16 1:26:44: Finished composition “VBox.Icons.Ruminoid.Splash”.
+
+
+  2020/07/16 1:26:44: Starting composition “VBox.Icons.Ruminoid”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid\VBox.Icons.Ruminoid_[#####].png    2020/07/16 1:26:47: Finished composition “VBox.Icons.Ruminoid”.
+
+
+  2020/07/16 1:26:47: Starting composition “VBox.Icons.Ruminoid.Colored”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Colored\VBox.Icons.Ruminoid.Colored_[#####].png    2020/07/16 1:26:47: Finished composition “VBox.Icons.Ruminoid.Colored”.
+
+
+  2020/07/16 1:26:47: Starting composition “VBox.Icons.Ruminoid.Colored.Transparent”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Colored.Transparent\VBox.Icons.Ruminoid.Colored.Transparent_[#####].png    2020/07/16 1:26:47: Finished composition “VBox.Icons.Ruminoid.Colored.Transparent”.
+
+
+  2020/07/16 1:26:47: Starting composition “VBox.Icons.Ruminoid.Colored.Transparent.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Colored.Transparent.Wide\VBox.Icons.Ruminoid.Colored.Transparent.Wide_[#####].png    2020/07/16 1:26:48: Finished composition “VBox.Icons.Ruminoid.Colored.Transparent.Wide”.
+
+
+  2020/07/16 1:26:48: Starting composition “VBox.Icons.Ruminoid.Colored.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Colored.Wide\VBox.Icons.Ruminoid.Colored.Wide_[#####].png    2020/07/16 1:26:48: Finished composition “VBox.Icons.Ruminoid.Colored.Wide”.
+
+
+  2020/07/16 1:26:48: Starting composition “VBox.Icons.Ruminoid.Half.Transparent”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Half.Transparent\VBox.Icons.Ruminoid.Half.Transparent_[#####].png    2020/07/16 1:26:48: Finished composition “VBox.Icons.Ruminoid.Half.Transparent”.
+
+
+  2020/07/16 1:26:48: Starting composition “VBox.Icons.Ruminoid.Half.Transparent.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Half.Transparent.Wide\VBox.Icons.Ruminoid.Half.Transparent.Wide_[#####].png    2020/07/16 1:26:48: Finished composition “VBox.Icons.Ruminoid.Half.Transparent.Wide”.
+
+
+  2020/07/16 1:26:48: Starting composition “VBox.Icons.Ruminoid.Transparent”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Transparent\VBox.Icons.Ruminoid.Transparent_[#####].png    2020/07/16 1:26:48: Finished composition “VBox.Icons.Ruminoid.Transparent”.
+
+
+  2020/07/16 1:26:49: Starting composition “VBox.Icons.Ruminoid.Transparent.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Transparent.Wide\VBox.Icons.Ruminoid.Transparent.Wide_[#####].png    2020/07/16 1:26:49: Finished composition “VBox.Icons.Ruminoid.Transparent.Wide”.
+
+
+  2020/07/16 1:26:49: Starting composition “VBox.Icons.Ruminoid.Wide”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Wide\VBox.Icons.Ruminoid.Wide_[#####].png    2020/07/16 1:26:49: Finished composition “VBox.Icons.Ruminoid.Wide”.
+
+
+  Total Time Elapsed: 6 Seconds
+Log closed on 2020/07/16 at 1:26:49
+
