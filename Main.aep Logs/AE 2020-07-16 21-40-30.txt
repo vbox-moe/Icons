@@ -1,0 +1,8 @@
+  2020/07/16 21:40:30: Starting composition “VBox.Icons.Ruminoid.Banner”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Banner\VBox.Icons.Ruminoid.Banner_[#####].png    2020/07/16 21:40:30: Finished composition “VBox.Icons.Ruminoid.Banner”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 2020/07/16 at 21:40:30
+
