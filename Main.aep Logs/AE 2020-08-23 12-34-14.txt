@@ -1,0 +1,17 @@
+Adobe After Effects v17.0.6 Windows 64 render log for project “Main.aep”
+
+Rendering started on 2020/08/23 at 12:34:14
+
+  2020/08/23 12:34:14: Starting composition “VBox.Icons.SimpleBox.Installing”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.SimpleBox.Installing\VBox.Icons.SimpleBox.Installing_[#####].png    2020/08/23 12:34:14: Finished composition “VBox.Icons.SimpleBox.Installing”.
+
+
+  2020/08/23 12:34:14: Starting composition “VBox.Icons.SimpleBox.Splash”.
+
+  Output To: D:\Projects\VBox\Icons\VBox.Icons.SimpleBox.Splash\VBox.Icons.SimpleBox.Splash_[#####].png    2020/08/23 12:34:14: Finished composition “VBox.Icons.SimpleBox.Splash”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 2020/08/23 at 12:34:14
+
