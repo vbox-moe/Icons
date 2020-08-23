@@ -1,57 +1,0 @@
-Adobe After Effects v17.0.6 Windows 64 render log for project “Main.aep”
-
-Rendering started on 2020/07/11 at 11:10:33
-
-  2020/07/11 11:10:33: Starting composition “VBox.Icons.Ruminoid.Tapper.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Wide\VBox.Icons.Ruminoid.Tapper.Wide_[#####].png    2020/07/11 11:10:33: Finished composition “VBox.Icons.Ruminoid.Tapper.Wide”.
-
-
-  2020/07/11 11:10:33: Starting composition “VBox.Icons.Ruminoid.Tapper”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper\VBox.Icons.Ruminoid.Tapper_[#####].png    2020/07/11 11:10:33: Finished composition “VBox.Icons.Ruminoid.Tapper”.
-
-
-  2020/07/11 11:10:33: Starting composition “VBox.Icons.Ruminoid.Tapper.Colored”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Colored\VBox.Icons.Ruminoid.Tapper.Colored_[#####].png    2020/07/11 11:10:33: Finished composition “VBox.Icons.Ruminoid.Tapper.Colored”.
-
-
-  2020/07/11 11:10:33: Starting composition “VBox.Icons.Ruminoid.Tapper.Colored.Transparent”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Colored.Transparent\VBox.Icons.Ruminoid.Tapper.Colored.Transparent_[#####].png    2020/07/11 11:10:33: Finished composition “VBox.Icons.Ruminoid.Tapper.Colored.Transparent”.
-
-
-  2020/07/11 11:10:33: Starting composition “VBox.Icons.Ruminoid.Tapper.Colored.Transparent.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Colored.Transparent.Wide\VBox.Icons.Ruminoid.Tapper.Colored.Transparent.Wide_[#####].png    2020/07/11 11:10:33: Finished composition “VBox.Icons.Ruminoid.Tapper.Colored.Transparent.Wide”.
-
-
-  2020/07/11 11:10:33: Starting composition “VBox.Icons.Ruminoid.Tapper.Colored.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Colored.Wide\VBox.Icons.Ruminoid.Tapper.Colored.Wide_[#####].png    2020/07/11 11:10:33: Finished composition “VBox.Icons.Ruminoid.Tapper.Colored.Wide”.
-
-
-  2020/07/11 11:10:33: Starting composition “VBox.Icons.Ruminoid.Tapper.Half.Transparent”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Half.Transparent\VBox.Icons.Ruminoid.Tapper.Half.Transparent_[#####].png    2020/07/11 11:10:33: Finished composition “VBox.Icons.Ruminoid.Tapper.Half.Transparent”.
-
-
-  2020/07/11 11:10:34: Starting composition “VBox.Icons.Ruminoid.Tapper.Half.Transparent.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Half.Transparent.Wide\VBox.Icons.Ruminoid.Tapper.Half.Transparent.Wide_[#####].png    2020/07/11 11:10:34: Finished composition “VBox.Icons.Ruminoid.Tapper.Half.Transparent.Wide”.
-
-
-  2020/07/11 11:10:34: Starting composition “VBox.Icons.Ruminoid.Tapper.Transparent”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Transparent\VBox.Icons.Ruminoid.Tapper.Transparent_[#####].png    2020/07/11 11:10:34: Finished composition “VBox.Icons.Ruminoid.Tapper.Transparent”.
-
-
-  2020/07/11 11:10:34: Starting composition “VBox.Icons.Ruminoid.Tapper.Transparent.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.Ruminoid.Tapper.Transparent.Wide\VBox.Icons.Ruminoid.Tapper.Transparent.Wide_[#####].png    2020/07/11 11:10:34: Finished composition “VBox.Icons.Ruminoid.Tapper.Transparent.Wide”.
-
-
-  Total Time Elapsed: 1 Seconds
-Log closed on 2020/07/11 at 11:10:34
-

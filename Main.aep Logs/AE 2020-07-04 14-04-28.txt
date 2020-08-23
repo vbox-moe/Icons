@@ -1,57 +1,0 @@
-Adobe After Effects v17.0.6 Windows 64 render log for project “Main.aep”
-
-Rendering started on 2020/07/04 at 14:04:28
-
-  2020/07/04 14:04:28: Starting composition “VBox.Icons.VBox.Colored.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Colored.Wide\VBox.Icons.VBox.Colored.Wide_[#####].png    2020/07/04 14:04:28: Finished composition “VBox.Icons.VBox.Colored.Wide”.
-
-
-  2020/07/04 14:04:28: Starting composition “VBox.Icons.VBox.Colored”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Colored\VBox.Icons.VBox.Colored_[#####].png    2020/07/04 14:04:28: Finished composition “VBox.Icons.VBox.Colored”.
-
-
-  2020/07/04 14:04:28: Starting composition “VBox.Icons.VBox.Colored.Transparent”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Colored.Transparent\VBox.Icons.VBox.Colored.Transparent_[#####].png    2020/07/04 14:04:28: Finished composition “VBox.Icons.VBox.Colored.Transparent”.
-
-
-  2020/07/04 14:04:28: Starting composition “VBox.Icons.VBox.Colored.Transparent.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Colored.Transparent.Wide\VBox.Icons.VBox.Colored.Transparent.Wide_[#####].png    2020/07/04 14:04:29: Finished composition “VBox.Icons.VBox.Colored.Transparent.Wide”.
-
-
-  2020/07/04 14:04:29: Starting composition “VBox.Icons.VBox.Half.Transparent”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Half.Transparent\VBox.Icons.VBox.Half.Transparent_[#####].png    2020/07/04 14:04:29: Finished composition “VBox.Icons.VBox.Half.Transparent”.
-
-
-  2020/07/04 14:04:29: Starting composition “VBox.Icons.VBox.Half.Transparent.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Half.Transparent.Wide\VBox.Icons.VBox.Half.Transparent.Wide_[#####].png    2020/07/04 14:04:29: Finished composition “VBox.Icons.VBox.Half.Transparent.Wide”.
-
-
-  2020/07/04 14:04:29: Starting composition “VBox.Icons.VBox.Transparent”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Transparent\VBox.Icons.VBox.Transparent_[#####].png    2020/07/04 14:04:29: Finished composition “VBox.Icons.VBox.Transparent”.
-
-
-  2020/07/04 14:04:29: Starting composition “VBox.Icons.VBox.Transparent.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Transparent.Wide\VBox.Icons.VBox.Transparent.Wide_[#####].png    2020/07/04 14:04:29: Finished composition “VBox.Icons.VBox.Transparent.Wide”.
-
-
-  2020/07/04 14:04:29: Starting composition “VBox.Icons.VBox”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox\VBox.Icons.VBox_[#####].png    2020/07/04 14:04:29: Finished composition “VBox.Icons.VBox”.
-
-
-  2020/07/04 14:04:29: Starting composition “VBox.Icons.VBox.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VBox.Wide\VBox.Icons.VBox.Wide_[#####].png    2020/07/04 14:04:29: Finished composition “VBox.Icons.VBox.Wide”.
-
-
-  Total Time Elapsed: 1 Seconds
-Log closed on 2020/07/04 at 14:04:29
-

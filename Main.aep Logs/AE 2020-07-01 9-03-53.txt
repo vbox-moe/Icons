@@ -1,27 +1,0 @@
-Adobe After Effects v17.0.6 Windows 64 render log for project “Main.aep”
-
-Rendering started on 2020/07/01 at 9:03:53
-
-  2020/07/01 9:03:53: Starting composition “VBox.Icons.VNerve.Colored”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VNerve.Colored\VBox.Icons.VNerve.Colored_[#####].png    2020/07/01 9:03:54: Finished composition “VBox.Icons.VNerve.Colored”.
-
-
-  2020/07/01 9:03:54: Starting composition “VBox.Icons.VNerve.Colored.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VNerve.Colored.Wide\VBox.Icons.VNerve.Colored.Wide_[#####].png    2020/07/01 9:03:54: Finished composition “VBox.Icons.VNerve.Colored.Wide”.
-
-
-  2020/07/01 9:03:54: Starting composition “VBox.Icons.VNerve”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VNerve\VBox.Icons.VNerve_[#####].png    2020/07/01 9:03:54: Finished composition “VBox.Icons.VNerve”.
-
-
-  2020/07/01 9:03:54: Starting composition “VBox.Icons.VNerve.Wide”.
-
-  Output To: D:\Projects\VBox\Icons\VBox.Icons.VNerve.Wide\VBox.Icons.VNerve.Wide_[#####].png    2020/07/01 9:03:54: Finished composition “VBox.Icons.VNerve.Wide”.
-
-
-  Total Time Elapsed: 1 Seconds
-Log closed on 2020/07/01 at 9:03:54
-
